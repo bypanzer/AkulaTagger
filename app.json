@@ -1,17 +1,17 @@
 {
-  "name": "Mention All Bot",
-  "description": "A simple mention all for telegram.",
+  "name": "Akula Tagger",
+  "description": "Telegram üçün sadə tag bot.",
   "env": {
     "TOKEN": {
-      "description": "Enter bot token.",
+      "description": "Bot tokenini daxil et.",
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "description": " my.telegram.org-dan al! Zəhmət olmasa,Oğurlama.",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "description": "my.telegram.org-dan al! Zəhmət olmasa,Oğurlama.",
       "value": ""
     }
   },
