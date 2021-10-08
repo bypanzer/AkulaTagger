@@ -1,14 +1,14 @@
-# Mention All Bot
-_**This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !**_
+# Akula Tagger
+_**Bu bot qruplarda 10,000-ə,kanallarda 200-ə qədər insanı tag edə bilir !**_
 
-### 🏷 Infomation
-- Language: Python.
-- Telegram Library: Telethon.
+### 🏷 İnformasiya
+- **Dil:** `Python`
+- **Telegram Kitabxana:** `Telethon`
 
-### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/MentionAllBot)
+# _**Reponu forklayaraq öz botunuzu yarada bilərsiniz**_
 
-### 🎯 Credits and Other
-- [Me](https://github.com/AnjanaMadu) for this Project ;)
+### 🎯 Əziyyəti üçün təşəkkürlər
+- [EpicProjects](https://github.com/Epicpr0jects) Bu proyekt üçün ;)
+- [EpicProjects](t.me/EpicProjects) Telegram Kanalımız
 
-**Do not forget to follow me on Github ✌️**
+**Bizi izləməyi unutmayın ✌️**
